@@ -20,5 +20,8 @@ Python · pandas · scikit-learn · TensorFlow · Matplotlib · NumPy
 - Flujo reproducible para nuevas zonas o datasets eléctricos.
 
 ## 📚 Autor
-Daniel Santiago Forero García  
+Daniel Santiago Forero García 
+Massimo Enrique Maimone 
+Daniel Sebastian Velasco Munar
+
 *Pontificia Universidad Javeriana – Ciencia de Datos*
